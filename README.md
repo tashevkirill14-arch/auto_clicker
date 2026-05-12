@@ -1,6 +1,8 @@
 
 # 🖱️ AutoClicker — Simple Tkinter Auto Clicker
 
+<img width="428" height="363" alt="Screenshot 2026-05-11 180005" src="https://github.com/user-attachments/assets/f2dd9b06-6f12-4fd4-8b15-c96c9667e864" />
+
 A lightweight and easy‑to‑use auto clicker built with **Python**, **Tkinter**, and the **mouse** / **keyboard** libraries.  
 You choose the number of clicks per second, press **Start**, and the program clicks automatically until you press **ESC**.
 
